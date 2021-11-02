@@ -57,4 +57,6 @@ export const UploadForm = styled.form`
             opacity: .9;
         }
     }
+
+    
 `;
